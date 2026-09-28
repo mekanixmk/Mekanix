@@ -1,0 +1,12 @@
+{
+  "name": "mk",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-28",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  }
+  // Add your binding here, for example:
+  // "kv_namespaces": [{ "binding": "MY_KV", "id": "<your-kv-id>" }]
+  // "d1_databases":  [{ "binding": "DB", "database_name": "mekanix-db", "database_id": "<your-d1-id>" }]
+}
